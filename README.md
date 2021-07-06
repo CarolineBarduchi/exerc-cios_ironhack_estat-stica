@@ -1,1 +1,2 @@
-# exerc-cios_ironhack_estat-stica
+# Exercicios de estatística
+
